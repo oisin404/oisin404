@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlphaxHax
+- 👀 I’m interested in Flipper Zero stuff :)
+- 🌱 I’m currently learning Python + C
+- 💞️ I’m looking to collaborate on simple tools and other stuff
+- 📫 How to reach me Discord is ä̶̫́l̶̛͝p̸͆̈h̶̿̃a̸̩̕x̷̋͂#4657
