@@ -2,4 +2,4 @@
 
 > /'ush.een/
 
-I'm currently interested in [Web-Dev]((https://oisin.cloud)), GoLang, Physics and Game Hacking.
+I'm currently interested in [Web-Dev](https://oisin.cloud), GoLang, Physics and Game Hacking.
