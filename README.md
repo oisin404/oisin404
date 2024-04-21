@@ -1,7 +1,5 @@
-### Hey I'm Oisín
+### Hey I'm [Oisín](https://en.wikipedia.org/wiki/Oisín)
 
 > /'ush.een/
 
-I'm currently interested in Web-Dev, GoLang, Physics and Game Hacking.
-
-#### [My site.](https://oisin.cloud)
+I'm currently interested in [Web-Dev]((https://oisin.cloud)), GoLang, Physics and Game Hacking.
