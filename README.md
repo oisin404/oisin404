@@ -1,4 +1,4 @@
-### Hey I'm [Oisín](https://en.wikipedia.org/wiki/Oisín)
+### 👋 Hey I'm [Oisín](https://en.wikipedia.org/wiki/Oisín)
 
 > /'ush.een/
 
